@@ -1,4 +1,4 @@
-# Code Of COIVD-19 case Prediction
+# Code of COIVD-19 case Prediction
 
 In this folder we have added the python codes of **Polymomial Regression** and **the ARMA and ARIMA models**.
 

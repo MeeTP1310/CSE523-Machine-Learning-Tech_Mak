@@ -1,4 +1,4 @@
-# Dataset for COVID-19 Prediction
+# Dataset for COVID-19 case Prediction
 
 In this folder we have added the Dataset of India for Prediction.
 
